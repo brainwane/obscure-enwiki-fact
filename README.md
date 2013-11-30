@@ -1,4 +1,5 @@
 obscure-enwiki-fact
 ===================
 
-Ideally, give you a very obscure fact from an English Wikipedia page
+This simple command-line script uses Python and the requests library to give you a random sentence or two 
+from an English Wikipedia page.
